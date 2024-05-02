@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Amor</title>
+    <link rel="stylesheet" href="carta.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Para meu amor</h1>
+        <div class="content">
+            <p>João Victor</p>
+            <p>Escrevo esta cartinha para expressar algumas coisas pra ti!</p>
+            <button id="revealButton">Clique para revelar uma mensagem</button>
+            <p id="specialMessage" class="hidden">A pessoa que mais gosto de conversar e ter um abraço caloroso é você e isso aquece meu peito toda vez que está junto de mim. Há muitas coisas para se expressar, mas o seu beijo e um abraço apertado são um deles!</p>
+        </div>
+    </div>
+
+    <script src="carta.js"></script>
+</body>
+</html>
