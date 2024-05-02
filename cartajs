@@ -1,0 +1,3 @@
+document.getElementById('revealButton').addEventListener('click', function() {
+    document.getElementById('specialMessage').classList.remove('hidden')
+});
